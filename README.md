@@ -1,6 +1,6 @@
 # Movie Keyword Model:
 
-This repository is for Jupyter Notebook(s) that are used to develop and refine our machine learning algorithms.
+This repository is for Jupyter Notebook(s) that are used to develop and refine our machine learning algorithms deployed at Amazon Sagemaker.
 
 We use scikit-learn TF-IDF to extract important keywords from a movie plot to characteriorze in the collected texts. These keywords cab be used as a very simple summaries or topics for the text selected from the movie episode, which can also be one of the sources in the following content-based movie recommendation engine.
 
